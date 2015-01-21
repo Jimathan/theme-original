@@ -192,7 +192,7 @@ a:hover {
 p {
   color: #333333;
 }
-.rainbow {
+/*.rainbow {
   position: fixed;
   top: 0;
   left: 0;
@@ -207,7 +207,7 @@ p {
   -o-background-size: cover;
   background-size: cover;
   z-index: 1000;
-}
+}*/
 .navbar {
   box-shadow: 0;
   -webkit-box-shadow: 0;
@@ -219,7 +219,6 @@ p {
   background-color: #2eb18d;
   background-image: none;
   background-repeat: no-repeat;
-  background-size: 55%;
   filter: none;
   box-shadow: none !important;
   -webkit-box-shadow: none !important;
