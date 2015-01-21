@@ -597,7 +597,7 @@ footer {
 }
 @media (min-width: 980px) {
   body {
-    padding-top: 4px;
+    padding-top: 120px;
   }
 }
 .login {
