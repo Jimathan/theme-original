@@ -213,7 +213,7 @@ p {
   -webkit-box-shadow: 0;
   border-bottom: 0;
 }
-.navbar-inner, /*{
+.navbar-inner {
   padding-top: 15px;
   padding-bottom: 15px;
   background-color: #2eb18d;
@@ -223,7 +223,7 @@ p {
   box-shadow: none !important;
   -webkit-box-shadow: none !important;
   border-bottom: 0;
-}*/
+}
 a.brand,
 a.brand:link,
 a.brand:visited {
