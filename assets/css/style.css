@@ -217,8 +217,8 @@ p {
   padding-top: 15px;
   padding-bottom: 15px;
   background-color: #2eb18d;
-  background-image: none;
-  background-repeat: no-repeat;
+  background-image: background-image: url(http://postachio-themes.s3-website-us-east-1.amazonaws.com/9562113794afcc565e7860bb5e926db4/assets/images/rainbow-bg.png);
+  background-repeat: repeat-x;
   filter: none;
   box-shadow: none !important;
   -webkit-box-shadow: none !important;
