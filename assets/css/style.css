@@ -208,12 +208,12 @@ p {
   background-size: cover;
   z-index: 1000;
 }
-.navbar a,/*{
+.navbar ,/*{
   box-shadow: 0;
   -webkit-box-shadow: 0;
   border-bottom: 0;
 }*/
-.navbar-inner a,/*{
+.navbar-inner, /*{
   padding-top: 15px;
   padding-bottom: 15px;
   background-color: #2eb18d;
